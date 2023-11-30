@@ -1,4 +1,5 @@
 # Bellabeat Case Study: How Can a Wellness Technology Company Play It Smart?
+Link: https://www.kaggle.com/code/brmil07/case-study-bellabeat-python
 </br>
 
 ## Scenario
